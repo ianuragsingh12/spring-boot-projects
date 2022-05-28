@@ -16,6 +16,7 @@
         <module>file-upload-download</module>
         <module>spring-boot-project-template</module>
         <module>rest-api-with-pagination-and-sorting</module>
+        <module>spring-postgre-json</module>
     </modules>
     
 </project>
